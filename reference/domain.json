@@ -1,0 +1,5 @@
+{
+  "consent_states": ["pending", "granted", "restricted", "withdrawn", "expired"],
+  "data_sources": ["survey", "sensor", "observation", "derived_dataset"],
+  "expiry_actions": ["delete", "anonymize", "review_hold"]
+}
